@@ -1,0 +1,11 @@
+h1 {
+    background-color: rgba(184, 135, 11, 0.455);
+    font-size: x-large;
+}
+h2 {
+    color: rgba(0, 0, 255, 0.412);
+    font-size: xx-large;
+}
+body {
+    background-color: rgba(255, 192, 203, 0.14);
+}
